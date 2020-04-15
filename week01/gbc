@@ -1,0 +1,96 @@
+html
+1. HTML as 计算机语言
+* 语法
+* 词法
+2. HTML as SGML
+*  DTD
+* ENTITY   
+     3.HTML as XML
+*  Namespace
+            svg
+            mathml
+            aria
+*  tag    
+css
+    1.词法、语法
+     2.@规则
+     3.普通规则
+* 选择器
+* value
+* property
+    4.机制
+javaScript
+    1.Grammar
+* 语法（atorm，expression，structure，script&module）
+* 词法（whiteSpace，换行符，注释，token）
+    2.语义
+    3.运行时
+* type(number,string,boolean,null,undefined,object,symbol)
+* 内部类型（列表，完整记录，data block）
+* 执行过程（job，script,promise,function,statement,expression,literal,identifier）
+前端性能优化
+    1.网络层面
+*  减少传输过程中实体大小
+* 减少请求次数
+* 异步加载
+* 预加载，延后加载，按需加载
+     2.内容层面
+* DNS解析优化
+* 切分到多个域名
+* 避免重定向
+* 杜绝404
+     3.渲染层面
+* js，css加载
+* 重绘和回流
+* dom节点
+     4.脚本执行层面
+* 节点操作
+* 循环
+* 事件委托
+数据结构和算法
+1. 数据接口
+* 列表
+* 栈
+* 队列
+* 链表
+* 字典
+* 散列
+* 图
+* 二叉树
+    2.算法
+* 排序算法
+* 查找算法
+* 提升自己算法
+api
+1. browser
+2. Node
+3. Electron
+4. 小程序
+5. JQ
+6. VUE（全家桶，elementui，底层）
+7. REACT
+8. 移动端（原生h5）
+技术扩展
+1. ts
+2. three.js
+3. flutter
+4. 微前端
+5. serverless
+6. 图标动画
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
